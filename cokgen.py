@@ -1,4 +1,4 @@
-"""by kaankilic"""
+"""by KubilayKilic"""
 
 from __future__ import print_function, division
 
